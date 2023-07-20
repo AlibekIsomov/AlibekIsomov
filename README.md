@@ -2,5 +2,6 @@
 
 - 🔭 I’m currently working on Java
 - 🌱 I’m currently learning Java, Python, Javascript
-- 📫 How to reach me: 07alibekisomov@gmail.com 
+- 📫 How to reach me: aisomov.dev@gmail.com
+  
 
