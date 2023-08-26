@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Java
-- 🌱 I’m currently learning Java, Python, Javascript
+- 🔭 I’m currently working on Java 
 - 📫 How to reach me: aisomov.dev@gmail.com
   
 
