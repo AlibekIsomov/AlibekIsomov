@@ -4,7 +4,6 @@
 Position:         Backend Developer
 Languages:        Java, PHP
 Location:         Uzbekistan
-
 ```
 
 <div align="center">
