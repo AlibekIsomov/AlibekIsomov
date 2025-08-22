@@ -12,3 +12,6 @@ Location:         Uzbekistan
   </a>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AlibekIsomov/AlibekIsomov/output/snake.svg" alt="Snake animation" />
+</div>
