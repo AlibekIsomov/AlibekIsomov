@@ -1,8 +1,8 @@
 ## ![](https://komarev.com/ghpvc/?username=AlibekIsomov&color=blueviolet&style=flat-square)
 
 ```
-Position:         Backend Developer
-Languages:        Java, PHP
+Position:         Software Engineer
+Languages:        Java, PHP, Vue.js
 Location:         Uzbekistan
 ```
 
